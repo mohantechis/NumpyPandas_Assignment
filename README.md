@@ -1,5 +1,4 @@
-
-#Numpy Pandas Assignements
+# Numpy Pandas Assignements
 1) Generate an array of zeroes using inbuilt numpy function.
 In [ ]:
 
